@@ -1,5 +1,5 @@
-# Analysis-of-trading-operations
-Analysis of trading operations
+# Trading operations analysis
+Trading operations analysis
 
 
 
